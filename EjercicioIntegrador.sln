@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36511.14 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EjercicioIntegrador", "EjercicioIntegrador\EjercicioIntegrador.csproj", "{9F547880-E2C0-487F-86DA-365891D518E4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F547880-E2C0-487F-86DA-365891D518E4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F547880-E2C0-487F-86DA-365891D518E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F547880-E2C0-487F-86DA-365891D518E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F547880-E2C0-487F-86DA-365891D518E4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FAE5C22E-282D-4F05-8D64-36F002749CD2}
+	EndGlobalSection
+EndGlobal
